@@ -12,8 +12,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jdoliveira1407&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
-![TestesManuais](https://img.shields.io/badge/-Testes_Manuais-0D1117?style=for-the-badge&logo=Testes_Manuais&labelColor=0D1117&textColor=0D1117)&nbsp;
+![QualidadedeSoftware](https://img.shields.io/badge/-Qualidade_de_Software-0D1117?style=for-the-badge&logo=Qualidade_de_Software&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TestesAutomatizados](https://img.shields.io/badge/-Testes_Automatizados-0D1117?style=for-the-badge&logo=Testes_Automatizados&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TestesManuais](https://img.shields.io/badge/-Testes_Manuais-0D1117?style=for-the-badge&logo=Testes_Manuais&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 ### Main frameworks:
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=Cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
